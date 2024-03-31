@@ -1,0 +1,1 @@
+# fastapi_mongodb_app_movil_pose_detection_workout
